@@ -9,7 +9,7 @@ Requirements
 
 MySQL Credential
 user : root
-password : dragonats@007
+password : dragonarts@007
 
 # Screenshots
 Registration<br>
