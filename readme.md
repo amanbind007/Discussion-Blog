@@ -13,15 +13,15 @@ password : dragonats@007
 
 # Screenshots
 Registration<br>
-<img width="75%" src="https://github.com/amanbind007/Discussion-Blog/blob/master/Screenshot%202022-09-09%20at%2011.51.42%20AM.png?raw=true"><br>
+<img width="75%" src="https://github.com/amanbind007/Discussion-Blog/blob/master/Screenshots%20and%20Gifs/Screenshot%202022-09-09%20at%2011.51.42%20AM.png?raw=true"><br>
 login<br>
-<img width="75%" src="https://github.com/amanbind007/Discussion-Blog/blob/master/Screenshot%202022-09-09%20at%2011.52.04%20AM.png?raw=true"><br>
+<img width="75%" src="https://github.com/amanbind007/Discussion-Blog/blob/master/Screenshots%20and%20Gifs/Screenshot%202022-09-09%20at%2011.52.04%20AM.png?raw=true"><br>
 Home Page<br>
-![](https://github.com/amanbind007/Discussion-Blog/blob/master/chrome-capture-2022-8-9.gif?raw=true)<br>
+![](https://github.com/amanbind007/Discussion-Blog/blob/master/Screenshots%20and%20Gifs/chrome-capture-2022-8-9.gif?raw=true)<br>
 Creating Post<br>
-![](https://github.com/amanbind007/Discussion-Blog/blob/master/chrome-capture-2022-8-9%20(1).gif?raw=true)<br>
+![](https://github.com/amanbind007/Discussion-Blog/blob/master/Screenshots%20and%20Gifs/chrome-capture-2022-8-91.gif?raw=true)<br>
 Viewing Post and Commenting on it<br>
-![](https://github.com/amanbind007/Discussion-Blog/blob/master/chrome-capture-2022-8-9%20(2).gif?raw=true)<br>
+![](https://github.com/amanbind007/Discussion-Blog/blob/master/Screenshots%20and%20Gifs/chrome-capture-2022-8-92.gif?raw=true)<br>
 
 
 # Database Schema
