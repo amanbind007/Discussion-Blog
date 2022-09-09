@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/amanbind/eclipse-workspace/DiscussionBlog/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3410740607.index
+57601109.index
+3622200286.index
+291971462.index
+997428942.index
+190821516.index
