@@ -8,7 +8,7 @@ Requirements
 3. Java JDBC Driver for MySql
 
 MySQL Credential
-user : root
+user : root<br>
 password : dragonarts@007
 
 # Screenshots
@@ -17,11 +17,11 @@ Registration<br>
 login<br>
 <img width="75%" src="https://github.com/amanbind007/Discussion-Blog/blob/master/Screenshots%20and%20Gifs/Screenshot%202022-09-09%20at%2011.52.04%20AM.png?raw=true"><br>
 Home Page<br>
-![](https://github.com/amanbind007/Discussion-Blog/blob/master/Screenshots%20and%20Gifs/chrome-capture-2022-8-9.gif?raw=true)<br>
+![](https://github.com/amanbind007/Discussion-Blog/blob/master/Screenshots%20and%20Gifs/chrome-capture-2022-8-9.gif?raw=true)<br><br>
 Creating Post<br>
-![](https://github.com/amanbind007/Discussion-Blog/blob/master/Screenshots%20and%20Gifs/chrome-capture-2022-8-91.gif?raw=true)<br>
+![](https://github.com/amanbind007/Discussion-Blog/blob/master/Screenshots%20and%20Gifs/chrome-capture-2022-8-91.gif?raw=true)<br><br>
 Viewing Post and Commenting on it<br>
-![](https://github.com/amanbind007/Discussion-Blog/blob/master/Screenshots%20and%20Gifs/chrome-capture-2022-8-92.gif?raw=true)<br>
+![](https://github.com/amanbind007/Discussion-Blog/blob/master/Screenshots%20and%20Gifs/chrome-capture-2022-8-92.gif?raw=true)<br><br>
 
 
 # Database Schema
